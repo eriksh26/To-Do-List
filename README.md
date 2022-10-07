@@ -6,4 +6,4 @@ Procrastinate a lot? Here's a To-Do list for you! Quick and easy! Organize your 
 ![image](https://user-images.githubusercontent.com/108941456/194475786-1f875cca-c978-4de6-bf03-66df1b7ccd04.png)
 
 
-©️2022 Erik Shrestha
+                                          ©️2022 Erik Shrestha
